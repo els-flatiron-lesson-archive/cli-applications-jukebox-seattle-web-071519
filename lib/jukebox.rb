@@ -55,6 +55,7 @@ def run(songs)
     else command == "help"
       help
     end
+    puts "Please enter a command:"
     command = gets.chomp 
   end
 end 
