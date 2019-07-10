@@ -59,7 +59,7 @@ def run(songs)
     command = gets.chomp 
     if command == "exit"
     exit_jukebox
-  end
+    end
   end
 end 
 
